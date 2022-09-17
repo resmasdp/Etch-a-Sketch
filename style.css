@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+
+}
+
+#settings{
+    flex-basis: 25%;
+    
+}
+
+#gridContainer{
+    box-sizing: border-box;
+    flex-basis: 75%;
+    height: 100vh;
+    margin: 0;
+    padding: 10px;
+  
+}
